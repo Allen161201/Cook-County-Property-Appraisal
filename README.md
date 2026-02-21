@@ -4,7 +4,7 @@ This project builds a residential property valuation model using real-world Cook
 
 ## Project Scope
 
-- 100% independently designed and executed  
+- 100% independently designed
 - Built Random Forest valuation model (200 trees)  
 - Implemented target encoding for high-cardinality variables  
 - Engineered interaction and derived features  
